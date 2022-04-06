@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Visite Technique Voiture</string>
+    <string name="bienv">Bienvenue!</string>
+    <string name="desc">Créer un compte pour réserver\n un rendez-vous Visite technique:</string>
+    <string name="nom">nom</string>
+    <string name="email">email</string>
+    <string name="mdp">mot de passe</string>
+    <string name="confmdp">confirmer mot de passe</string>
+    <string name="signup">S\'inscrire</string>
+    <string name="connex">Vous avez déjà un compte?</string>
+    <string name="login"><u>Connectez-vous!</u></string>
+
+    <string name="retour">content de vous revoir</string>
+    <string name="desclogin">Connectez-vous à votre compte pour réserver\n un rendez-vous Visite technique:</string>
+    <string name="site">Acceder à notre</string>
+    <string name="lien"><u>site web</u></string>
+    <string name="signin">Se Connecter</string>
+
+    <string name="form">REMPLISSEZ LE FORMULAIRE, PUIS RÉSERVEZ</string>
+    <string name="vehicule"><u>Votre Véhicule</u></string>
+    <string name="tmodele">Quel est le modèle de votre véhicule?</string>
+    <string name="tmatricule">Immatriculation:</string>
+    <string name="matricule">Ex: AA-123-AA</string>
+    <string name="t_type">Quel est le type de votre véhicule?</string>
+    <string name="t_fuel">Carburant:</string>
+    <string name="vous"><u>Vos Informations</u></string>
+    <string name="modele">Ex: Volkswagen Amarok</string>
+    <string name="tel">Numéro de Téléphone:</string>
+    <string name="tel_placeholder">+216 00000000</string>
+    <string name="butt_next">Suivant: Vérifications Véhicules</string>
+
+    <string name="listeverif">LISTE DES VERIFICATIONS POUR EVITER LA CONTRE-VISITE</string>
+    <string name="butt_submit">Je réserve et Paye sur place</string>
+
+    <string name="dir"><b>DIRECTION</b>
+    Vérifiez au volant, qu’il n’y a pas de jeu, que le braquage se fait sans difficulté.
+Si vous avez un doute, prenez rendez vous chez un spécialiste sans attendre.</string>
+
+    <string name="ident"><b>IDENTIFICATION DU VEHICULE</b>
+     Contrôlez vos plaques d’immatriculation à l’arrière et à l’avant : vérifiez
+        leur visibilité et leur fixation.
+        <i>Seules les plaques réglementaires sont acceptées.</i></string>
+
+    <string name="vis"><b>VISIBILITE</b>
+     Assurez vous que votre pare brise n’est pas endommagé :
+    Impact de plus de 3 cm / Plus de 3 impacts de 15 mm / Fissure de plus de 3 cm
+     Contrôlez les vitrages de votre véhicule.
+         La fixation et l’état de vos rétroviseurs (intérieur et extérieur).
+         Vérifiez vos essuie-glaces.</string>
+
+    <string name="eclair"><b>ECLAIRAGE / SIGNALISATION</b>
+     Contrôlez le fonctionnement et l’état de l’ensemble des feux (avantarrière) :
+    Feux de position, de croisement, les clignotants, les feux stop, les signaux de
+détresse, les feux de brouillard arrière, les catadioptres et l’éclairage de la
+plaque d’immatriculation.</string>
+
+    <string name="sol"><b>LIAISON AU SOL</b>
+     Vérifiez l’état et la pression de vos pneus, s’ils sont déformés, déchirés ou
+usés (moins de 1,6 mm de profondeur de sculpture) vous devez les
+changer.
+    <b><u>Rappel</u></b> : les 2 pneus d’un même essieu doivent être de structure et de
+dimension identiques.
+Une simple fissure, coupure ou une hernie peuvent provoquer l’éclatement
+du pneu.</string>
+
+    <string name="mec"><b>ORGANES MECANIQUES</b>
+    Vérifier le niveau d’huile :
+     S’assurer qu’il n’y a pas de fuite de carburant ou d’huile, pensez à
+regarder régulièrement s’il n’y a pas de tâches à l’endroit où vous garez
+votre véhicule.
+     S’assurer que votre pot d’échappement ne fait de bruit anormal
+     Vérifiez que votre pot d’échappement est bien fixé, en le secouant
+légèrement à froid et assurez-vous que vous n’avez pas de fuite.</string>
+
+    <string name="frein"><b>FREINAGE</b>
+         Lors du freinage, votre véhicule a tendance à se déporter à gauche ou à
+    droite, c’est sans doute le signe de freins en mauvais état. Faites vérifier
+    l’état des mâchoires et plaquettes et prévoir une période de rodage avant le contrôle si vous les faites remplacer.
+         Contrôlez votre niveau de liquide de frein et regardez si le bouchon ne
+    manque pas.
+</string>
+
+    <string name="carosserie"><b>STRUCTURE ET CARROSSERIE</b>
+         Constatez que votre carrosserie ne présente aucune partie saillante qui
+            pourrait blesser une personne.
+     Vérifiez l’ouverture et la fermeture correctes de vos portières, du coffre
+    et du capot
+    </string>
+
+    <string name="equip"><b>EQUIPEMENTS</b>
+        Vérifiez le bon fonctionnement de vos ceintures de sécurité : pas de
+            coupure, de déchirure et qu’elles se verrouillent correctement.
+         Veillez au réglage du siège conducteur (avant-arrière).
+         Vérifiez l’état de marche de votre avertisseur sonore.
+        <i>Pensez à présenter votre véhicule sans siège bébé.</i></string>
+
+    <string name="pollu"><b>POLLUTION ET NIVEAU SONORE</b>
+         Vérifiez que les fumées d’échappement ne soient pas de couleur
+    anormale (noire, bleue, blanche) et ne sortent pas en quantité tropimportante.
+     Le niveau de pollution est quasiment impossible à contrôler soi-même,
+    c’est pourquoi il peut faire l’objet d’un contrôle régulier par votre
+    garagiste.Un moteur mal réglé consomme souvent plus de carburant et pollue.</string>
+    <string name="conf">Conforme</string>
+    <string name="nonconf">Non-Conforme</string>
+    <string name="satisf">Satisfaisant</string>
+    <string name="non_satisf">Non-Satisfaisant</string>
+
+</resources>
